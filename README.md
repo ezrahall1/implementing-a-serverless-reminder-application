@@ -27,7 +27,6 @@ In this project I will be demonstrating how I built a serverless reminder applic
 
 <h2>YouTube Demonstration </h2>
 
-[How to build event-driven serverless image application](https://youtu.be/gA0x_mbkN-c)
 [Implementing a serverless reminder application](https://www.youtube.com/watch?v=wvtcEZW87r0)
 
 

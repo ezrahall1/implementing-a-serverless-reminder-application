@@ -19,11 +19,15 @@ In this project I will be demonstrating how I built a serverless reminder applic
 
 - <b>AWS</b>
 
+<h2>Program walk-through:</h2>
+<H3>Step 1 - Create S3 bucket</H3>
+<img src="https://i.imgur.com/a30DOD0.png" height="80%" width="80%" alt="Image 1"/>
 
-<h2>Selecting one of the pixelated images</h2>
 
-<img src="https://i.imgur.com/m3FRkYg.png" height="80%" width="80%" alt="Image 1"/>
 
+<h2>Successfully reminder notification</h2>
+
+<img src="https://i.imgur.com/b34894K.png" height="80%" width="80%" alt="Image 1"/>
 
 <h2>YouTube Demonstration </h2>
 

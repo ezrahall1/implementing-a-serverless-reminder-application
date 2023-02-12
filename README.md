@@ -26,8 +26,22 @@ In this project I will be demonstrating how I built a serverless reminder applic
 
 
 <H3>Step 2 - Create S3 bucket</H3>
-<img src="https://i.imgur.com/a30DOD0.png" height="80%" width="80%" alt="Image 1"/>
+<img src="https://i.imgur.com/BCNR1CN.png" height="80%" width="80%" alt="Image 2"/>
 
+
+
+<H3>Step 3 - Create S3 bucket</H3>
+<img src="https://i.imgur.com/6PbtXs9.png" height="80%" width="80%" alt="Image 2"/>
+
+<H3>Step 4 - Create S3 bucket</H3>
+<img src="https://i.imgur.com/6PbtXs9.png" height="80%" width="80%" alt="Image 2"/>
+
+
+<H3>Step 5 - Create S3 bucket</H3>
+<img src="https://i.imgur.com/6PbtXs9.png" height="80%" width="80%" alt="Image 2"/>
+
+<H3>Step 6 - Create S3 bucket</H3>
+<img src="https://i.imgur.com/6PbtXs9.png" height="80%" width="80%" alt="Image 2"/>
 
 
 

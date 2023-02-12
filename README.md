@@ -26,7 +26,7 @@ In this project I will be demonstrating how I built a serverless reminder applic
 
 
 <H3>Step 2 - Create email reminder lambda function</H3>
-<img src="https://i.imgur.com/BCNR1CN.png" height="60%" width="60%" alt="Image 2"/>
+<img src="https://i.imgur.com/BCNR1CN.png" height="70%" width="70%" alt="Image 2"/>
 
 
 

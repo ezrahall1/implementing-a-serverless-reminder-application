@@ -1,9 +1,7 @@
 <h1>Implementing a serverless reminder application</h1>
 
 <h2>Description</h2>
-
-In this project I will be demonstrating how I built a serverless reminder application. The application will load from an S3 bucket and run in a browser communicating with Lambda and Step Functions via an API gateway endpoint using the application.
-
+This project showcases the construction of a serverless reminder application, illustrating the step-by-step process of its development. The application is designed to be loaded from an S3 bucket and executed in a browser, establishing communication with Lambda and Step Functions through an API gateway endpoint. By delving into this demonstration, viewers gain insights into the intricacies of building a serverless application that seamlessly integrates components like S3, Lambda, Step Functions, and API Gateway. This hands-on guide offers a practical understanding of how these serverless elements collaborate to create a functional and dynamic reminder application in a browser environment.
 <br />
 
 
